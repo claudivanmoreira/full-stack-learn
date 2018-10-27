@@ -10,12 +10,12 @@
     "@babel/preset-env": "^7.1.0"
   },
   "scripts": {
-    "ex1": "babel exercicio01.js -o ./bundle.js -w",
-    "ex2": "babel exercicio02.js -o ./bundle.js -w",
-    "ex3": "babel exercicio03.js -o ./bundle.js -w",
-    "ex4": "babel exercicio04.js -o ./bundle.js -w",
-    "ex5": "babel exercicio05.js -o ./bundle.js -w",
-    "ex6": "babel exercicio06.js -o ./bundle.js -w",
-    "ex7": "babel exercicio07.js -o ./bundle.js -w"
+    "mod01_ex1": "babel ./modulo01/exercicio01.js -o ./modulo01/bundle.js -w",
+    "mod01_ex2": "babel ./modulo01/exercicio02.js -o ./modulo01/bundle.js -w",
+    "mod01_ex3": "babel ./modulo01/exercicio03.js -o ./modulo01/bundle.js -w",
+    "mod01_ex4": "babel ./modulo01/exercicio04.js -o ./modulo01/bundle.js -w",
+    "mod01_ex5": "babel ./modulo01/exercicio05.js -o ./modulo01/bundle.js -w",
+    "mod01_ex6": "babel ./modulo01/exercicio06.js -o ./modulo01/bundle.js -w",
+    "mod01_ex7": "babel ./modulo01/exercicio07.js -o ./modulo01/bundle.js -w"
   }
 }
