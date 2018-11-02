@@ -14,8 +14,8 @@
 
     > It looks like you are trying to access MongoDB over HTTP on the native driver port.
 
-6. Download and install [Robo Mongo]
-7. Download and install [Insomnia]
+6. Download and install [Robo Mongo] to manage databases 
+7. Download and install [Insomnia] to test developed APIs
 
 [Docker Toolbox]: <https://docs.docker.com/toolbox/overview/>
 [Robo Mongo]: <https://robomongo.org/>
