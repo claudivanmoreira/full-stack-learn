@@ -5,7 +5,6 @@ Repository of [Rocketseat] courses to learn the basics of:
   - [ES6]
   - [ReactJS]
   - [React Native]
-  - [Java Script]
 
    [NodeJS]: <https://github.com/claudivanmoreira/rocketseat-starter/tree/master/curso-nodejs>
    [Rocketseat]: <https://rocketseat.com.br/starter>
